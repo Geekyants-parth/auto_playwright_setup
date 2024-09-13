@@ -1,0 +1,12 @@
+{
+  "name": "auto_playwright_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@playwright/test": "^1.47.0"
+  },
+  "devDependencies": {
+    "auto-playwright": "^1.16.0"
+  }
+}
